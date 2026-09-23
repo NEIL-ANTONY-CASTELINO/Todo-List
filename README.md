@@ -2,6 +2,8 @@
 
 A simple, colorful to-do list web app built with HTML, Tailwind CSS, DaisyUI and JavaScript. Add tasks with due dates, mark them complete, filter them, and switch between 11 color themes. Your tasks are saved in the browser, so they're still there when you come back.
 
+**Live demo:** https://neil-antony-castelino.github.io/Todo-List/todo-list-main/
+
 ## Features
 
 - **Add tasks** with an optional due date (click **+** or press **Enter**)
@@ -76,4 +78,3 @@ The server starts on `http://localhost:3000`.
 ## Author
 
 **Neil Castelino** – [GitHub](https://github.com/NEIL-ANTONY-CASTELINO)
-
